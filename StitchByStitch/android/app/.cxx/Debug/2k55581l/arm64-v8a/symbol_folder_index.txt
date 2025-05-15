@@ -1,0 +1,1 @@
+/Users/annadandara/test-cs991/StitchByStitch/build/app/intermediates/cxx/Debug/2k55581l/obj/arm64-v8a

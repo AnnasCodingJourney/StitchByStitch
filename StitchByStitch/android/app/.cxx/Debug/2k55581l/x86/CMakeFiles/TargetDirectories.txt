@@ -1,0 +1,2 @@
+/Users/annadandara/test-cs991/StitchByStitch/android/app/.cxx/Debug/2k55581l/x86/CMakeFiles/edit_cache.dir
+/Users/annadandara/test-cs991/StitchByStitch/android/app/.cxx/Debug/2k55581l/x86/CMakeFiles/rebuild_cache.dir

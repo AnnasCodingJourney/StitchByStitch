@@ -1,0 +1,35 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_linkify: ^6.0.0  
+  url_launcher: ^6.3.1
+  flutter_rating_bar: ^4.0.1
+  path_provider: ^2.1.5
+  provider: ^6.1.2  # Use the latest version
+  cached_network_image: ^3.2.3
+  mockito: ^5.4.5
+  share_plus: ^10.1.4
+  image_picker: ^1.1.2
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true  
+  assets:
+        - assets/images/slipknot.jpeg
+        - assets/images/caston.jpeg
+        - assets/images/log_in.jpg
+        - assets/images/sign_up.jpg
+        - assets/images/welcome_page.jpg
